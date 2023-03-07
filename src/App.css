@@ -1,0 +1,94 @@
+.container {
+  background-color: #f4f4f8;
+  margin-bottom: 50px;
+}
+
+.background {
+  background-color: #f4f4f8;
+  overflow: 'scroll';
+  margin-bottom: 50px;
+}
+
+.txt {
+  text-align: left;
+  color: #5ca3d4;
+}
+.descTxt {
+  text-align: left;
+  color: #ac9b9c;
+}
+.line {
+  margin-top: 5px;
+  border: 1px solid #ababbc;
+}
+
+.box1 {
+  height: 70px;
+  width: auto;
+  border: 1px solid #ababbc;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #ffffff;
+}
+
+.box2{
+    height: auto;
+    width: auto;
+    border: 1px solid #ababbc;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+.icon {
+  margin-left: 10px;
+}
+.textArea {
+  margin-left: 70px;
+  margin-top: 5px;
+}
+
+.verticle {
+  vertical-align: middle;
+}
+
+.titleTxt {
+  font-size: 14px;
+  color: #5ca3d4;
+  font-weight: bold;
+}
+
+.input1{
+    width: 95%;
+    border:none;
+    margin-top: 3px;
+}
+
+.no-border {
+    border: 0;
+    box-shadow: none; /* You may want to include this as bootstrap applies these styles too */
+}
+
+.radio{
+    margin-left: 15px;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    height: 15px;
+    width: 15px;
+    border-radius: 15px;
+}
+
+.select{
+    width: 95%;
+    border:none;
+    margin-top: 3px;
+}
+.btn{
+    height: 50px;
+    width: 40%;
+    margin-top: 20px;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+}
